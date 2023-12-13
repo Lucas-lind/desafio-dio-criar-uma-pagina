@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Lucas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Oi, tudo bem? eu sou o Lucas</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#Qualificações">Qualificações</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="sobre">
+        <h2>Sobre Mim</h2>
+        <p>Olá! Meu nome é Lucas Lind do Carmo e sou um desenvolvedor front-end. Tenho conhecimento em HTML, CSS e JavaScript, e estou sempre em busca de aprender novas tecnologias.</p>
+    </section>
+    <section id="projetos">
+        <h2>Projetos</h2>
+        <div class="projeto">
+            <h3>Projeto 1</h3>
+            <p>Descrição do projeto 1.</p>
+        </div>
+        <div class="projeto">
+            <h3>Projeto 2</h3>
+            <p>Descrição do projeto 2.</p>
+        </div>
+        <div class="projeto">
+            <h3>Projeto 3</h3>
+            <p>Descrição do projeto 3.</p>
+        </div>
+    </section>
+    <section id="Qualificações">
+        <h2>Qualificações</h2>
+    </section>
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato comigo através do email <a href="mailto:lucaslind208@gmail.com">lucaslind208@gmail.com</a> ou pelas redes sociais:</p>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/lucas-lind-a44998257/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/[seugithub]" target="_blank">GitHub</a></li>
+            <li><a href="https://twitter.com/[seutwitter]" target="_blank">Twitter</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2023 Lucas Lind do Carmo . Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
